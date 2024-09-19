@@ -4,7 +4,7 @@ I've been programming for 5 years. I mostly use Java and C#, although I have wor
 ### Current Projects and Website 
 My actual website is Draconite Games \(draconitegames.com)<!--(http://draconitegames.com)-->, and I'm currently working on a few project using the Unity engine that I plan on selling on Steam.
 ### Contact me
-Feel free to contact me at mileswhansen@gmail.com<!--(mailto:mileswhansen@gmail.com)-->
+<!--Feel free to contact me at mileswhansen@gmail.com (mailto:mileswhansen@gmail.com)-->
 
 <!--
 **Miles-Hansen-BSU/Miles-Hansen-BSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
